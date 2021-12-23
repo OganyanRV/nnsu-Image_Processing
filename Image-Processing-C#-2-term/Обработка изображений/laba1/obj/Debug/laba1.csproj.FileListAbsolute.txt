@@ -1,0 +1,9 @@
+C:\Users\OgRob\source\repos\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\OgRob\source\repos\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\OgRob\source\repos\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\OgRob\source\repos\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\OgRob\source\repos\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\OgRob\source\repos\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\OgRob\source\repos\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\OgRob\source\repos\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\OgRob\source\repos\laba1\laba1\obj\Debug\laba1.Form1.resources

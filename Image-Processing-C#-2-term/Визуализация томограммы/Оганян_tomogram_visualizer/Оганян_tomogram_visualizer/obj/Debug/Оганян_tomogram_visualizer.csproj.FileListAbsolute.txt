@@ -1,0 +1,16 @@
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\Оганян_tomogram_visualizer.exe.config
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\Оганян_tomogram_visualizer.exe
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\Оганян_tomogram_visualizer.pdb
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\OpenTK.dll.config
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\obj\Debug\Оганян_tomogram_visualizer.csprojAssemblyReference.cache
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\obj\Debug\Оганян_tomogram_visualizer.Form1.resources
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\obj\Debug\Оганян_tomogram_visualizer.Properties.Resources.resources
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\obj\Debug\Оганян_tomogram_visualizer.csproj.GenerateResource.cache
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\obj\Debug\Оганян_tomogram_visualizer.csproj.CopyComplete
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\obj\Debug\Оганян_tomogram_visualizer.exe
+C:\Users\OgRob\source\repos\Оганян_tomogram_visualizer\Оганян_tomogram_visualizer\obj\Debug\Оганян_tomogram_visualizer.pdb

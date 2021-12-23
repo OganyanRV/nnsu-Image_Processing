@@ -1,0 +1,32 @@
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\Lab3_Oganyan.exe.config
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\Lab3_Oganyan.exe
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\Lab3_Oganyan.pdb
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.dll
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.GLControl.dll
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.pdb
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.xml
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.dll.config
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.GLControl.xml
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.csprojAssemblyReference.cache
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.Properties.Resources.resources
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.csproj.GenerateResource.cache
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.csproj.CopyComplete
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.exe
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.pdb
+C:\Users\OgRob\source\repos\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.Form1.resources
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\Lab3_Oganyan.exe.config
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\Lab3_Oganyan.exe
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\Lab3_Oganyan.pdb
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.dll
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.GLControl.dll
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.pdb
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.xml
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.dll.config
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\bin\Debug\OpenTK.GLControl.xml
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.csprojAssemblyReference.cache
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.Form1.resources
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.Properties.Resources.resources
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.csproj.GenerateResource.cache
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.csproj.CopyComplete
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.exe
+C:\Users\OgRob\OneDrive\Документы\GitHub\Csharp\Лаба 3 Оганян 381808-1\Lab3_Oganyan\Lab3_Oganyan\obj\Debug\Lab3_Oganyan.pdb
